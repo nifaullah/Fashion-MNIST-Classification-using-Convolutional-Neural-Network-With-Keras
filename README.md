@@ -1,6 +1,6 @@
 # Fashion-MNIST-Classification-using-Convolutional-Neural-Network-With-Keras
 
-In this excercise/mini project I am trying to classify the Fashion MNIST dataset as I get myself equipped with Convoltuional Layers in Keras.
+In this excercise/mini project I am trying to classify the Fashion MNIST dataset as I get myself acquainted with Convoltuional Layers in Keras.
 
 Goal: Primary goal of this excercise is to equip myself with Keras set up with regards to a Covolutional Neural Network by implementing the LeNet-5 architecture. Secondary goal is to achieve atleast 90% success in predicting the right labels for the Fashion MNIST Images.
 
